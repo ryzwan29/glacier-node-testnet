@@ -2,7 +2,7 @@
 
 # Install depedencies
 sudo apt-get update && sudo apt-get upgrade -y
-sudo apt install curl git jq lz4 build-essential unzip -y
+sudo apt install curl git jq lz4 build-essential unzip screen -y
 sudo apt install ca-certificates -y
 
 # Install docker and docker compose
