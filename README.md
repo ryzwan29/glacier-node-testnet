@@ -1,15 +1,10 @@
 # Glacier Node Testnet
 
-## Hardware Requirements
-Minimum:
-CPU with 1+ cores
-2GB RAM
-4 MBit/sec download Internet service
-
-Recommended:
-Fast CPU with 2+ cores
-4GB+ RAM
-8+ MBit/sec download Internet service
+| **Hardware** | **Minimum Requirement** | **Recomendation Requirement** |
+|--------------|-------------------------|-------------------------------|
+| **CPU**      | 1 Cores                 | 2+ Cores                      |
+| **RAM**      | 2 GB                    | 4+ GB                         |
+| **Internet** | 4 Mbit/s                | 8+ Mbit/s                     |
 
 # Installation
 
