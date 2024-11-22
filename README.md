@@ -35,5 +35,5 @@ Replace the ```PRIVATE_KEY``` with your privatekey.
 - [Bridge BNB Testnet to opBNB Testnet](https://opbnb-testnet-bridge.bnbchain.org/deposit)
 - [Faucet BNB](https://faucet.quicknode.com/binance-smart-chain/bnb-testnet)
 - [Faucet BNB](https://faucet.chainstack.com/bnb-testnet-faucet)
-- [Faucet BNB](https://thirdweb.com/opbnb-testnet)
+- [Faucet BNB](https://www.bnbchain.org/en/testnet-faucet)
 - [Check Wallet Status](https://testnet.nodes.glacier.io/status) (After Run the Node)
