@@ -26,7 +26,7 @@ screen -R glacier
 ## Docker
 
 ```
-docker run -d -e PRIVATE_KEY="YOUR_PRIVATE_KEY" --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.2
+docker run -d -e PRIVATE_KEY="YOUR_PRIVATE_KEY" --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.3
 ```
 Replace the ```YOUR_PRIVATE_KEY``` with your privatekey.
 
